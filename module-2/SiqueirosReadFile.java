@@ -1,3 +1,15 @@
+/*
+ * Name: Sebastian Siqueiros
+ * Course: CSD-420
+ * Assignment: Module 2.2
+ * Date: August 24, 2026
+ *
+ * Description:
+ * This program reads the integers and double values stored in the data file
+ * and displays the data on the screen. It continues reading until the end
+ * of the file is reached.
+ */
+
 import java.io.DataInputStream;
 import java.io.EOFException;
 import java.io.FileInputStream;
